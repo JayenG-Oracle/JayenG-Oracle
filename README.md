@@ -19,7 +19,7 @@
     - Machine Learning for database workload analysis
     - AWS and Google Cloud 
 
-- 💞️ I’m looking to collaborate on
+- 💞️ Open to Collaborative Opportunities
     - Projects related to Oracle databases
     - Cloud migration 
     - Performance optimization and monitoring tools
