@@ -1,4 +1,4 @@
- 👋 Hi, I’m Jyaendra 🌟 Oracle DBA and Cloud Expert 🌟
+ 👋 Hi, I’m Jayendra 🌟 Oracle DBA and Cloud Expert 🌟
   With over 15 years of experience in the Oracle ecosystem, I specialize in Oracle database administration and Oracle Cloud solutions.
   Throughout my career, I have worked on various projects spanning banking, telecom, and healthcare domains.
   Proficient in Oracle database management, performance tuning, and cloud migrations, I possess a deep understanding of Oracle technologies and cloud architectures.
